@@ -4,7 +4,7 @@ import { CommonModule } from '@angular/common';
 import { bootstrapApplication } from '@angular/platform-browser';
 
 @Component({
-  selector: 'my-app',
+  selector: 'app-e-info',
   standalone: true,
   imports: [CommonModule],
   template: `
